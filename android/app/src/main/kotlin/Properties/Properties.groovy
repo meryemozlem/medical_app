@@ -1,0 +1,4 @@
+package Properties
+
+class Properties {
+}
