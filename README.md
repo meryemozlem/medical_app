@@ -18,10 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ![Ekran görüntüsü 2023-09-13 223841](https://github.com/meryemozlem/medical_app/assets/82104183/f71a5321-9e8f-403a-b310-320ab4fced89)
 ![Ekran görüntüsü 2023-09-13 223848](https://github.com/meryemozlem/medical_app/assets/82104183/fadbeb5d-35f0-465a-b9c7-7625a8d998ed)
 
-![giris](https://github.com/meryemozlem/medical_app/assets/82104183/08b0edad-ecac-4f31-b4e5-5507add392c1)
-![sign_up](https://github.com/meryemozlem/medical_app/assets/82104183/73016d31-b635-4b15-a5ff-c645f953fe1a)
-
-
 ![Ekran görüntüsü 2023-09-13 223657](https://github.com/meryemozlem/medical_app/assets/82104183/9586ba06-9398-425b-a0a1-51c275be683c)
 ![Ekran görüntüsü 2023-09-13 223636](https://github.com/meryemozlem/medical_app/assets/82104183/596bc95b-a402-42db-af24-0c11e9ba2036)
 ![Ekran görüntüsü 2023-09-13 223643](https://github.com/meryemozlem/medical_app/assets/82104183/97996844-ca37-4569-b602-52292494f99e)
